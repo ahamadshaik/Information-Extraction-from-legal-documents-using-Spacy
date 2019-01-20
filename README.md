@@ -9,10 +9,8 @@ In future, we are concentrating to train the model for the same.
   * Parts-of-speech tagging with NLTK library.
     - nltk.stanford has pos tagging model.
   * Detecting roman numerals.
-    #### Some custom Rules
-  
-  * ## Main process happens here:
-   
+    #### Some custom Rules   
+  * ### followed by 
   * Dbpedia reolution
   * Munpex German Chunker
   * DBpedia_NP_filter
