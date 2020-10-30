@@ -1,4 +1,4 @@
-# NLPwithSpacy
+# Language Model with Spacy
 Currently, we are using Hierarchical rules with regular expression. 
 In future, we are concentrating to train the model for the same.
 ### PipeLine as follows:
